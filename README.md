@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently undergoing lectures on **University of Logistics and Business International (ULBI)**
 
-- 🌱 I’m currently learning **Vue JS, and Laravel**
+- 🌱 I’m currently learning **Vue JS, Laravel, Golang**
 
 - 👯 I’m looking to collaborate on **Jatidiri Apps at Hexagon Inc**
 
