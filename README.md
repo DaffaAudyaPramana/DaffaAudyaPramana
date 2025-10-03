@@ -3,11 +3,7 @@
 
 
 
-- 🔭 I’m currently undergoing lectures on **University of Logistics and Business International (ULBI)**
-
-- 🌱 I’m currently learning **Vue JS, Laravel, Golang**
-
-- 👯 I’m looking to collaborate on **Jatidiri Apps at Hexagon Inc**
+- 🔭 I’m unofficially graduate on **University of Logistics and Business International (ULBI)**
 
 <!-- - 👨‍💻 All of my projects are available at [https://harisriyoni.github.io/](https://harisriyonii.github.io/) -->
 
